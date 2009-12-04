@@ -7,10 +7,10 @@ The BeaglePod is an audio/video player for cars equiped with "IPod Ready" stereo
 
 = Hardware =
 
-* Apline Car Stereo (Model# ??????)
-* FDTI USB TTL-RS232 USB-TTL
-* Apline KCE-422i IPod Cable
-* Breadboard with headers to join the two cable.
+ * Apline Car Stereo (Model# ??????)
+ * FDTI USB TTL-RS232 USB-TTL
+ * Apline KCE-422i IPod Cable
+ * Breadboard with headers to join the two cable.
 
 Why no beadgleboard listed? 
 
@@ -24,22 +24,21 @@ When I first started out, it was 100% C and I hadn't heard of the beadgleboard. 
 
 There are 4 components that make up the system.
 
-* aap - Library to manage all the serial communication and aap specific stuff
-* itunes - A library to parse itune library xml file and build playlists
-* player - A libary that delegates and controls gstreamer
-* ipod - The center hub for dispatching and connecting everything together
+ * aap - Library to manage all the serial communication and aap specific stuff
+ * itunes - A library to parse itune library xml file and build playlists
+ * player - A libary that delegates and controls gstreamer
+ * ipod - The center hub for dispatching and connecting everything together
 
 = Status =
 
 Works
 
-* Playlist selection
-* Artist/Album/Song selection
-* Controls: Play/Pause/Next/Previous
-* Elapse time
-* Display Track Information
+ * Playlist selection
+ * Artist/Album/Song selection
+ * Controls: Play/Pause/Next/Previous
+ * Elapse time
+ * Display Track Information
 
 Not Working
 
 * Fast Forward/Rewind
-
