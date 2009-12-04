@@ -2,7 +2,7 @@
 
 = Introduction =
 
-The BeaglePod is an audio/video player for cars equiped with "IPod Ready" stereos. Using the Apple Accessory Protocol the car stereo is used to select and control the playback of media on the BeaglePod. Adding a video monitor the BeaglePod can also become a video player running all the audio through the car stereo with full pause, play, stop control from the car stero head unit. Using a software implementation of the Apple Accessory Protocol the BeaglePod is connected to the car stereo via a USB->TTL cable.
+The BeaglePod is an audio/video player for cars equipped with "IPod Ready" stereos. Using the Apple Accessory Protocol the car stereo is used to select and control the playback of media on the BeaglePod. Adding a video monitor the BeaglePod it becomes a audio/video player.  The BeadglePod is connected to the car stereo via a USB->TTL to KCE-4221 cable.  A small breadboard is used to join the two cables.
 
 
 = Hardware =
