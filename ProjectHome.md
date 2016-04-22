@@ -1,0 +1,1 @@
+BeaglePod is a plug-in replacement+ for car stereo's that are IPod Ready. The BeaglePod uses gstreamer as an audio/video player and is controlled via the car stereo head unit using Apple Accessory Protocol.
